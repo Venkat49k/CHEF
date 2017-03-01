@@ -1,0 +1,5 @@
+default["course"]["devops"] = "chef"
+default["Player"]["game"] = "Sachin"
+default["Mycourse is"] = "DEVOPS"
+default["LeaveTesing"] = "NOW DEVOPS"
+default["Current Course"] = "CHEFFFFFF"
